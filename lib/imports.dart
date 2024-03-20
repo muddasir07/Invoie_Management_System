@@ -13,9 +13,6 @@ export 'view/invoice_admin/payment/payment.dart';
 export 'view/invoice_admin/profile/profile.dart';
 export 'package:google_fonts/google_fonts.dart';
 export 'package:invoice_management/controller/payment_controller.dart';
-
-export 'package:invoice_management/widgets/text/textbuilder.dart';
-export 'package:invoice_management/view/invoice_admin/payment/payment.dart';
 export 'package:invoice_management/utils/commons.dart';
 export 'package:invoice_management/controller/drawers_controller.dart';
 export 'package:invoice_management/view/init_screen/register/register_page.dart';

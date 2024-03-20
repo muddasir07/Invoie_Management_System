@@ -12,10 +12,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+    
   cupertino_icons: ^1.0.2
   device_preview: ^1.1.0
   platform: ^3.1.0
-  google_fonts: ^3.0.1
+  google_fonts: ^4.0.1
   fl_chart: ^0.55.2
 
   

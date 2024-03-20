@@ -1,0 +1,1 @@
+ E:\\Github\ Live\ Sites\\Invoie_Management_System\\.dart_tool\\flutter_build\\77081938109f645f4d9ca800f7c4cffb\\native_assets.yaml: 
